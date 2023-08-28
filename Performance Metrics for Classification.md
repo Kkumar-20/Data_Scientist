@@ -1,0 +1,15 @@
+- In a classification problem, the category or classes of data is identified based on training data.
+- Accuracy
+- Confusion Matrix
+- Precision
+- Recall
+- F-Score
+- AUC(Area Under the Curve)-ROC
+- Accuracy can be determined as the number of correct predictions to the total number of predictions.
+- A confusion matrix is a tabular representation of prediction outcomes of any binary classifier, which is used to describe the performance of the classification model on a set of test data when true values are known.
+- The precision metric is used to overcome the limitation of Accuracy. The precision determines the proportion of positive prediction that was actually correct.
+- Precision can be seen as a measure of the quality(the ability to classify positive samples) of performance of ML model
+- Recall as a measure of the quantity(how many positive samples were correctly classified) of performance of ML model.
+- F-score or F1 Score is a metric to evaluate a binary classification model on the basis of predictions that are made for the positive class.
+- ROC represents a graph to show the performance of a classification model at different threshold levels.
+- AUC calculates the two-dimensional area under the entire ROC curve.
