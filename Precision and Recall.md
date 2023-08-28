@@ -1,2 +1,7 @@
 - Performance metrics in **Classification Algorithms** are precision and recall.
 - In pattern recognition, information retrieval, object detection and classification, precision and recall are performance metrics that apply to data retrieved from a collection, corpus or sample space. Precision is the fraction of relevant instances among the retrieved instances.
+- **Precision** can be seen as a measure of quality, and **recall** as a measure of quantity. Higher precision means that an algorithm returns more relevant results than irrelevant ones, and high recall means that an algorithm returns most of the relevant results (whether or not irrelevant ones are also returned).
+- **Precision = TP/TP+FP and Recall = TP/TP+FN**
+- Confusion Matrix helps us to display the performance of a model
+- Precision helps us to measure the ability to classify positive samples in the model.
+- Recall helps us to measure how many positive samples were correctly classified by the ML model.
