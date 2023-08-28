@@ -1,0 +1,2 @@
+- Performance metrics in **Classification Algorithms** are precision and recall.
+- In pattern recognition, information retrieval, object detection and classification, precision and recall are performance metrics that apply to data retrieved from a collection, corpus or sample space. Precision is the fraction of relevant instances among the retrieved instances.
