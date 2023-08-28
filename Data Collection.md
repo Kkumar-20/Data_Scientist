@@ -1,0 +1,5 @@
+- Lists are used to store the data, which should be ordered and sequential. On the other hand, the dictionary is used to store large amounts of data for easy and quick access. List is ordered and mutable, whereas dictionaries are unordered and mutable.
+- It is more efficient to use dictionaries for the lookup of elements as it is faster than a list and takes less time to traverse.
+- Tuples are generally faster than the list data type in Python because it cannot be changed or modified like list datatype.
+- Tuples are fewer errors than List.
+- - -
