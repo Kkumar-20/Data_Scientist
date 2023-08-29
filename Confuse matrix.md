@@ -5,8 +5,11 @@
 ![image](https://github.com/Kkumar-20/Data_Scientist/assets/96828026/02ee784b-78f3-4d20-8ef8-a7bb3aed13bc)
 - PRECISION
 ![image](https://github.com/Kkumar-20/Data_Scientist/assets/96828026/a129a308-4ce2-425c-9dce-0fcc27ccc3b7)
+![image](https://github.com/Kkumar-20/Data_Scientist/assets/96828026/021b9d98-3599-4d9a-887a-373f9a2f5239)
 - RECALL
 ![image](https://github.com/Kkumar-20/Data_Scientist/assets/96828026/6f2e2c33-2b13-43e2-8eca-583eb65c6e9e)
+![image](https://github.com/Kkumar-20/Data_Scientist/assets/96828026/d56243c0-5c7c-43e4-8068-52db458e3708)
+
 
 
 
