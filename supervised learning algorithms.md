@@ -1,4 +1,4 @@
-**
+```
 Support vector machine
 
 Decision-making
@@ -16,4 +16,4 @@ Random forest
 Naive Bayes classifier
 
 K-nearest neighbors algorithm
-**
+```
