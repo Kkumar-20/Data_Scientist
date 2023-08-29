@@ -1,14 +1,13 @@
 List of regression algorithms in Machine Learning
-Linear Regression
-Ridge Regression
-Neural Network Regression 
-Lasso Regression 
-Decision Tree Regression 
-Random Forest
-KNN Model 
-Support Vector Machines (SVM)
-Gausian Regression
-Polynomial Regression
+- Linear Regression
+- Ridge Regression
+- Neural Network Regression 
+- Decision Tree Regression 
+- Random Forest
+- KNN Model 
+- Support Vector Machines (SVM)
+- Gausian Regression
+- Polynomial Regression
 - - Linear regression algorithm is used if the labels are continuous, like the number of flights daily from an airport, etc. The representation of linear regression is y = b*x + c.
 - - Ridge Regression : If only one independent variable is being used to predict the output, it will be termed as a linear regression ML algorithm.
 - - Neural Network Regression : Each node in a neural network has a respective activation function that defines the output of the node based on a set of inputs. The last activation function can be manipulated to change a neural network into a regression model.
