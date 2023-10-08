@@ -1,0 +1,14 @@
+- There are various types of clauses available in SQL, and some of them are listed below:
+
+- Clause	Description
+- HAVING	HAVING clause can be used in a GROUP BY clause. It is used to specify a search condition for a group in the database tables.
+- WHERE	The WHERE clause in SQL is used to retrieve the specific data from the database that specifies the conditions exactly that are given in the UPDATE, DELETE, etc. statements.
+- ORDER BY	The ORDER BY clause in SQL is used for sorting the records of the database tables.
+- GROUP BY	To group the result set of the rows that have the same values in the result set from the database tables, the GROUP BY clause is used.
+- TOP	This clause is used when the database has many records. It is used to specify the total number of records to be fetched or returned.
+- WITH	WITH clause acts as a temporary view as it is available only during the execution of SELECT, UPDATE, INSERT, DELETE, etc. statements. It is used to simplify complex and long queries.
+- LIKE	The SQL LIKE clause compares a value to similar values using wildcard operators, i.e. per cent sign ( % ) and the underscore operator ( _ ).
+- FROM	The FROM clause in SQL is used to select the database tables, which are manipulated using the SELECT, DELETE, and UPDATE statements.
+- LIMIT	The LIMIT clause is used when you are dealing with large databases. It is used to specify the maximum number of rows to be retrieved from the table.
+- AND	The AND clause is used when multiple conditions are specified in a query and returns a dataset when all the conditions given in the AND clause meet the requirements.
+- OR	The OR clause is used when multiple conditions are specified in a query and returns a dataset when one of those conditions gets satisfied.
