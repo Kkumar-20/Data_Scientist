@@ -1,0 +1,1 @@
+# If your color image has 8 bits per channel, and there are three channels (red, green, and blue), the overall image can actually fit a total of 256 × 256 × 256 shades, which equals 16,777,216 (or 2^24).
